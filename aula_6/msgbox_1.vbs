@@ -1,0 +1,1 @@
+MsgBox "Hello" & Space(10) & "World"

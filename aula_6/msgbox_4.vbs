@@ -1,0 +1,1 @@
+MsgBox "A palavra trinta tem " & Len("trinta") & " letras."

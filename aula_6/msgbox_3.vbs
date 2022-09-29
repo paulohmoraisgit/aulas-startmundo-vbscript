@@ -1,0 +1,1 @@
+MsgBox StrReverse("Inverso")

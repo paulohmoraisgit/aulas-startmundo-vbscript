@@ -1,0 +1,1 @@
+MsgBox "Isso se repetiu para mim " & String(5, "-") & String(8, vbLf) & "5 vezes."
